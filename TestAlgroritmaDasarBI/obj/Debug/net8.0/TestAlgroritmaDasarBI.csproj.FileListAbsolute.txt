@@ -1,0 +1,14 @@
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\bin\Debug\net8.0\TestAlgroritmaDasarBI.exe
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\bin\Debug\net8.0\TestAlgroritmaDasarBI.deps.json
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\bin\Debug\net8.0\TestAlgroritmaDasarBI.runtimeconfig.json
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\bin\Debug\net8.0\TestAlgroritmaDasarBI.dll
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\bin\Debug\net8.0\TestAlgroritmaDasarBI.pdb
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.AssemblyInfoInputs.cache
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.AssemblyInfo.cs
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.csproj.CoreCompileInputs.cache
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.dll
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\refint\TestAlgroritmaDasarBI.dll
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.pdb
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\TestAlgroritmaDasarBI.genruntimeconfig.cache
+C:\RiderProjects\TestAlgroritmaDasarBI\TestAlgroritmaDasarBI\obj\Debug\net8.0\ref\TestAlgroritmaDasarBI.dll
